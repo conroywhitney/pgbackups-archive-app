@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/conroywhitney/pgbackups-archive
-  revision: 74a2a7ec9a21c44280d38f93f4b2520ee4600de9
+  revision: 3d198faf342deb9fa89c6eb26a12272a97c503a9
   specs:
     pgbackups-archive (0.2.1)
       bundler (>= 1.2.3)
